@@ -1,0 +1,16 @@
+Package: com.davidjb.pass
+Version: 0.2.1-1
+Architecture: iphoneos-arm
+Maintainer: davidjb
+Installed-Size: 380
+Depends: gnupg
+Filename: DEB-Files/com.davidjb.pass_0.2.1-1_iphoneos-arm.deb
+Size: 81852
+MD5sum: 3bff154454686a4f1f8b392ee04da648
+SHA1: 421944f9dc3adb8f5022f61cd053eff3462f49d1
+SHA256: 494f032f1e664fbae2deab3eb5a1a20592010a86565d38db63f6fde8f6ef58bc
+Section: Utilities
+Description: iOS app to access your password-store
+Author: davidjb
+Name: Pass
+
