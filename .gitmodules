@@ -1,0 +1,3 @@
+[submodule "SourcePackages/pass-ios"]
+	path = SourcePackages/pass-ios
+	url = https://github.com/davidjb/pass-ios.git
